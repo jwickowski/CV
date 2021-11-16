@@ -1,14 +1,26 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ block "title" . }}
-      {{ .Site.Title }}
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ block "title" . }}
+    {{ .Site.Title }}
     {{ end }}</title>
-  </head>
-  <body>
+  <link rel="stylesheet" href="{{.Site.BaseURL}}/css/styles.css">
+</head>
+
+<body>
+  <section>
     {{ block "main" . }}
-      {{ .Content }}
+    {{ .Content }}
     {{ end }}
-  </body>
+    <footer>
+      I hereby give consent for my personal data included in my application to be processed for the purposes of the
+      recruitment process under the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April
+      2016 on the protection of natural persons with regard to the processing of personal data and on the free movement
+      of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+    </footer>
+  </section>
+</body>
+
 </html>
