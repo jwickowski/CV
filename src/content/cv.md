@@ -1,9 +1,3 @@
----
-title: "Jerzy Wickowski CV"
-date: 2021-11-11T01:24:26+01:00
-draft: false
----
-
 # Jerzy Wickowski / CV
 
 Senior Full-stack Engineer with 15 years of experience. I can help you with legacy systems to reduce their cost of maintaining and allow them to
