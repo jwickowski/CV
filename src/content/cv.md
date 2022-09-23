@@ -22,9 +22,9 @@ I deeply believe:
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Technical Architect Team Lead**, REMOTE - Technical Architect Team Lead
+### **Esatto**, REMOTE - Technical Architect Team Lead
 
-2022-12 - ongoing, [https://www.esatto.se/en/](https://www.esatto.se/en/)
+2021-12 - ongoing, [https://www.esatto.se/en/](https://www.esatto.se/en/)
 
 Leading a team of developers on creating and improving software in electrical and retail branch
 
@@ -35,7 +35,7 @@ Leading a team of developers on creating and improving software in electrical an
 - Introduce Architecture Decision Log to improve team cooperation for long term
 - Adapt DevOps processes to reduce development loop
 
-**Technologies, skills:** .NET Core, MediatR, Application Insights, CQRS, Azure DevOps, TypeScript, React, Redux, Observables, Cloud, Microsoft Azure, C#, SqlServer, IIS, CI, CD, SOLID, DRY, KISS, Ongoing Refactoring,
+**Technologies, skills:** .NET Core, MediatR, Entity Framework Core, Application Insights, CQRS, Azure DevOps, TypeScript, React, Redux, Observables, Cloud, Microsoft Azure, C#, SqlServer, IIS, CI, CD, SOLID, DRY, KISS, Ongoing Refactoring,
 
 ---
 
