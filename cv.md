@@ -1,13 +1,13 @@
 ---
 title: "Jerzy Wickowski CV"
-date: 2021-11-11T01:24:26+01:00
+date: 2024-05-06T01:24:26+01:00
 draft: false
+url: "/"
 ---
 
 # Jerzy Wickowski / CV
 
-Senior Full-stack Engineer with 15 years of experience. I can help you with legacy systems to reduce their cost of maintaining and allow them to
-grow, by introducing: CleanCode, automated tests, better architecture, CI / CD pipelines, and by improving team cooperation.
+Software developer, leader, architect with 15 years of experience. I am focused on solving business problems, team collaboration and improving the quality.
 
 I deeply believe:
 
@@ -17,8 +17,7 @@ I deeply believe:
 - Email: [kontakt@jerzywickowski.pl](mailto:kontakt@jerzywickowski.pl)
 - LinkedIn: [linkedin.com/in/jerzy-wickowski/](https://linkedin.com/in/jerzy-wickowski)
 - Github: [github.com/jwickowski](https://github.com/jwickowski)
-- English Blog: [CodePruner.com](https://CodePruner.com)
-- Polish Blog: [JerzyWickowski.pl](https://JerzyWickowski.pl)
+- Blog: [CodePruner.com](https://CodePruner.com)
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -26,16 +25,18 @@ I deeply believe:
 
 2021-12 - ongoing, [https://www.esatto.se/en/](https://www.esatto.se/en/)
 
-Leading a team of developers on creating and improving software in electrical and retail branch
+Designing and implementing bespoke solutions for Rexel to improve price adjustment flow and developing internal software to streamline company operations.
 
-**Responsibilities:**
+**Summary:**
 
-- Gathering requirements from client
-- Plan and adapt software architecture, based on client's requirements
-- Introduce Architecture Decision Log to improve team cooperation for long term
+- Gathering requirements and cooperate with client directly
+- Planing and adapting software architecture, based on changing requirements
+- Improving performance of the application 
+- Create and improve project documentation to improve team cooperation for long term
 - Adapt DevOps processes to reduce development loop
+- Implementing internal AI tool to improve sales process based on ChatGPT and Azure AI
 
-**Technologies, skills:** .NET Core, MediatR, Entity Framework Core, Application Insights, CQRS, Azure DevOps, TypeScript, React, Redux, Observables, Cloud, Microsoft Azure, C#, SqlServer, IIS, CI, CD, SOLID, DRY, KISS, Ongoing Refactoring,
+**Technologies, skills:** .NET Core, Entity Framework Core, AI, Semantic Search, MediatR, Application Insights, CQRS, Azure DevOps, TypeScript, React, Redux, Cloud, Microsoft Azure, C#, SqlServer, IIS, CI, CD, SOLID, DRY, KISS, Ongoing Refactoring, ChatGPT, Architecture decision record (ADR)
 
 ---
 
@@ -43,16 +44,15 @@ Leading a team of developers on creating and improving software in electrical an
 
 2021-04 - 2021-11, [https://www.la-francaise.com/](https://www.la-francaise.com/)
 
-Maintaining and extending legacy workflow applications used to validate financial processes.
+Maintaining and extending old legacy system used to validate financial processes.
 
-**Responsibilities:**
+**Summary:**
 
 - Handling production issues in old legacy application
 - Improving code quality to reduce the cost of maintaining
 - Plan and implement migration from JavaScript into TypeScript
 - Preparing technical documentation for future developers
 - Taking over the project from other developers
-- Gathering requirements from the users
 - Share knowledge in a team and between teams
 
 **Technologies, skills:** TypeScript, JavaScript, React, Redux, Observables, C#, WebApi, SqlServer, K2 Workflows, SqlServer,
@@ -64,10 +64,9 @@ CI, CD, SOLID, DRY, KISS, Architecture decision record (ADR)
 
 2020-11 - 2021-03 [https://assemble.dk](https://assemble.dk)
 
-Supporting SaaS application, improving performance, and do preparation to migrate the application into
-Microsoft Azure
+Supporting SaaS application, improving performance, and do preparation to migrate the application into Microsoft Azure
 
-**Responsibilities:**
+**Summary:**
 
 - Improving performance for a better user experience and to save money
 - Handling production issues in legacy application
@@ -85,9 +84,9 @@ Microsoft Azure
 
 Transformation of not maintainable application into a stable product and improving the team culture to cooperate better
 
-**Responsibilities:**
+**Summary:**
 
-- Reducing complexity and splitting code into independent modules.
+- Reducing complexity and splitting code into independent modules
 - Introduce the idea of ongoing refactor as a way to continuous improvement
 - Maintain, improve and extend applications made in .NET and React
 - Gathering information about processes from a client and translating them into a solution
@@ -100,11 +99,11 @@ Transformation of not maintainable application into a stable product and improvi
 
 ### **DeployAcademy.pl**, Poland - Founder, Consultant, Course creator
 
-- 2019 - PRESENT [deployacademy.pl](https://deployacademy.pl/)
+- 2019 - 2022 [deployacademy.pl](https://deployacademy.pl/)
 
 Creating, marketing, and selling online courses to teach people about CI/CD with Azure Pipelines.
 
-**Responsibilities:**
+**Summary:**
 
 - Preparing video course with samples with Azure Pipelines
 - Configure the platform to provide materials to clients
@@ -120,7 +119,7 @@ Creating, marketing, and selling online courses to teach people about CI/CD with
 
 Developing modern web applications for various types of clients.
 
-**Responsibilities:**
+**Summary:**
 
 - Designing and implementing enterprise .NET web application
 - Designing application architectures
@@ -141,7 +140,7 @@ Developing modern web applications for various types of clients.
 
 Developing, maintaining, and extending international application for PKN Orlen
 
-**Responsibilities:**
+**Summary:**
 
 - Direct cooperating with the client in order to clarify new features
 - Discussing with business with future features and planning them
@@ -157,7 +156,7 @@ Developing, maintaining, and extending international application for PKN Orlen
 
 Developing web applications as a part of a geographically distributed team.
 
-**Responsibilities:**
+**Summary:**
 
 - Implementing new features and extending existing ones.
 - Working as a part of a geographically distributed team.
@@ -168,11 +167,11 @@ Developing web applications as a part of a geographically distributed team.
 
 ### **Select sp. z o.o.** - Software Engineer (.NET)
 
-- 2009-07 - 2011-02 [slct.pl](https://slct.pl/)
+- 2009-07 - 2011-02 Select
 
 Developing desktop application using WinForms and WPF
 
-**Responsibilities:**
+**Summary:**
 
 - Implementing new features and extending existing ones.
 - Working as a part of a geographically distributed team.
@@ -188,10 +187,10 @@ Developing desktop application using WinForms and WPF
 
 ## SKILLS
 
-- **Technologies** .NET, C#, JavaScript, TypeScript, React, Redux, Angular, RxJs, WebApi, ASP MVC, SQL, Powershell,
+- **Technologies** .NET, C#, JavaScript, TypeScript, React, Redux, Angular, RxJs, WebApi, ASP MVC, SQL, Powershell, EntityFramework, SignalR
 - **DevOps** Azure DevOps, Bitbucket Pipelines, TeamCity, CakeBuild, AppVeyor, GitHub Actions
-- **Tools** GIT, Visual Studio, VSCode, SQL Server Management Studio, VSTS, TFS, Jira,
-- **Cloud** Microsoft Azure
+- **Tools** GIT, Visual Studio, Rider, Resharper, VSCode, SQL Server Management Studio, VSTS, TFS, Jira,
+- **Cloud** Microsoft Azure, Azure AI
 - **Dev skills** SOLID, TDD, KISS, DRY, Agile, Extreme Programming, Scrum, CI/CD, CleanCode
 
 ## LANGUAGES
