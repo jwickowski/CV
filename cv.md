@@ -2,6 +2,7 @@
 title: "Jerzy Wickowski CV"
 date: 2024-05-06T01:24:26+01:00
 draft: false
+url: "/"
 ---
 
 # Jerzy Wickowski / CV
