@@ -1,3 +1,5 @@
+cd "$(dirname "$0")"
+
 cp -f ../cv.md ./content/cv.md
 
 docker build -t cv-hugo .

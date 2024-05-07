@@ -10,10 +10,31 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Say hello
-      run: | 
-        echo "hello test"
-
+    - name: Prepare artifacts directory
+      run: |
+        mkdir -p ${{ github.workspace }}/artifacts
+        mkdir -p ${{ github.workspace }}/artifacts/public
+        
     - name: Build CV webpage
       run: | 
-        ${{ github.workspace }}/build-website/build.sh
+        chmod +x ${{ github.workspace }}/build-website/build.sh
+        sudo ${{ github.workspace }}/build-website/build.sh
+        cp -R ${{ github.workspace }}/build-website/public ${{ github.workspace }}/artifacts/public
+
+    - name: npm install
+      run: |
+        cd ./build-pdf
+        npm install
+
+    - name: build PDF
+      run: |
+        cd ./build-pdf
+        docker run -d --name cv-hugo-run -p 1313:1313 cv-hugo
+        npm run build    
+        cp  "Jerzy Wickowski - CV.pdf"  "${{ github.workspace }}/artifacts/Jerzy Wickowski - CV.pdf"
+
+    - uses: actions/upload-artifact@v3
+      with:
+        name: Jerzy Wickowski CV
+        path: ${{ github.workspace }}/artifacts           
+      

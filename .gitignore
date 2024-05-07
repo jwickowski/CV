@@ -2,3 +2,4 @@ src/.hugo_build.lock
 src/public/
 build-website/public/
 build-pdf/node_modules/
+public/
