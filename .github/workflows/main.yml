@@ -19,7 +19,7 @@ jobs:
       run: | 
         chmod +x ${{ github.workspace }}/build-website/build.sh
         sudo ${{ github.workspace }}/build-website/build.sh
-        cp -R ${{ github.workspace }}/build-website/public ${{ github.workspace }}/artifacts/public
+        cp -R ${{ github.workspace }}/build-website/public ${{ github.workspace }}/artifacts
 
     - name: npm install
       run: |
