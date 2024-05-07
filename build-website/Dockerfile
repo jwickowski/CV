@@ -7,5 +7,5 @@ RUN apt install ./hugo.deb
 RUN hugo version
 COPY . .
 RUN hugo 
-#RUN hugo build
-
+EXPOSE 1313
+ENTRYPOINT  ["hugo", "server", "--bind", "0.0.0.0" ]
