@@ -38,3 +38,12 @@ jobs:
         name: Jerzy Wickowski CV
         path: ${{ github.workspace }}/artifacts           
       
+    - name: Upload ftp
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: "artifacts/public"
+          server-dir: "/public_html/cv"
+          protocol: ftps
