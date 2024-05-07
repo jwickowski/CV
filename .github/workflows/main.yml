@@ -1,0 +1,19 @@
+name: Build and deploy CV
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Say hello
+      run: | 
+        echo "hello test"
+
+    - name: Build CV webpage
+      run: | 
+        ${{ github.workspace }}/build-website/build.sh
