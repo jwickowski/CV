@@ -18,12 +18,13 @@ I deeply believe:
 - LinkedIn: [linkedin.com/in/jerzy-wickowski/](https://linkedin.com/in/jerzy-wickowski)
 - Github: [github.com/jwickowski](https://github.com/jwickowski)
 - Blog: [CodePruner.com](https://CodePruner.com)
+- Download the newest CV: [Jerzy Wickowski CV](https://cv.jerzywickowski.pl/Jerzy.Wickowski.CV.pdf)
 
 ## PROFESSIONAL EXPERIENCE
 
 ### **Esatto**, REMOTE - Technical Architect Team Lead
 
-2021-12 - ongoing, [https://www.esatto.se/en/](https://www.esatto.se/en/)
+2021-12 - 2024.05, [https://www.esatto.se/en/](https://www.esatto.se/en/)
 
 Designing and implementing bespoke solutions for Rexel to improve price adjustment flow and developing internal software to streamline company operations.
 
