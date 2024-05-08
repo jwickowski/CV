@@ -18,7 +18,7 @@ I deeply believe:
 - LinkedIn: [linkedin.com/in/jerzy-wickowski/](https://linkedin.com/in/jerzy-wickowski)
 - Github: [github.com/jwickowski](https://github.com/jwickowski)
 - Blog: [CodePruner.com](https://CodePruner.com)
-- Download the newest CV: [Jerzy Wickowski CV](https://cv.jerzywickowski.pl/Jerzy.Wickowski.CV.pdf)
+- [Download the newest CV as PDF](https://cv.jerzywickowski.pl/Jerzy.Wickowski.CV.pdf)
 
 ## PROFESSIONAL EXPERIENCE
 
