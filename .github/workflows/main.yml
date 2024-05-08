@@ -31,7 +31,7 @@ jobs:
         cd ./build-pdf
         docker run -d --name cv-hugo-run -p 1313:1313 cv-hugo
         npm run build    
-        cp  "Jerzy Wickowski - CV.pdf"  "${{ github.workspace }}/artifacts/public/Jerzy Wickowski - CV.pdf"
+        cp  Jerzy.Wickowski.CV.pdf  "${{ github.workspace }}/artifacts/public/Jerzy.Wickowski.CV.pdf"
 
     - uses: actions/upload-artifact@v3
       with:
