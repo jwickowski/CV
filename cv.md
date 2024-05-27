@@ -131,7 +131,7 @@ Developing modern web applications for various types of clients.
 - Taking an active part in the recruitment process.
 - Preparing and conducting internal training.
 
-**Technologies, skills:** TypeScript, .NET, C#, SqlServer, OData, MVC, WebApi, EntityFramework, SignalR, ngular6, RxJS, Redux, KendoUI, SPA, ASP.NET MVC, JavaScript,, Kendo UI, MVVM, VSTS, Azure DevOps Pipelines TeamCity, Powershell
+**Technologies, skills:** TypeScript, .NET, C#, SqlServer, OData, MVC, WebApi, EntityFramework, SignalR, Angular6, RxJS, Redux, KendoUI, SPA, ASP.NET MVC, JavaScript,, Kendo UI, MVVM, VSTS, Azure DevOps Pipelines TeamCity, Powershell
 
 ---
 
