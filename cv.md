@@ -22,6 +22,21 @@ I deeply believe:
 
 ## PROFESSIONAL EXPERIENCE
 
+### **Pracuj.pl**, REMOTE - Software Developer - Technical Architect
+
+2024-06 - ... , [https://www.pracuj.pl](https://www.pracuj.pl)
+
+Creating software for the largest and most popular online job portals in Poland. Creating tools for other developers to make them life easier and to help them develop faster, but also to 
+
+**Summary:**
+
+- Creating a tool for migrating RabbitMQ queues to Quorum
+- Create an automated tool to manage users in multiple RabbitMq nodes and environments
+
+**Technologies, skills:** .NET Core, Entity Framework Core, RabbitMQ, Azure, Grafana, Azure DevOps, GitHub Actions, C#, SqlServer, IIS, CI, CD, SOLID, DRY, KISS, Ongoing Refactoring, Architecture decision record (ADR)
+
+---
+
 ### **Esatto**, REMOTE - Technical Architect Team Lead
 
 2021-12 - 2024.05, [https://www.esatto.se/en/](https://www.esatto.se/en/)
